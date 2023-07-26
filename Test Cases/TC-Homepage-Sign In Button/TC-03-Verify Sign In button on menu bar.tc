@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that sign in button is dispalyed on menu bar</description>
+   <name>TC-03-Verify Sign In button on menu bar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bab0097d-c0b1-4720-878f-584e1271acd6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that Gaming button in menu bar is clickeble</description>
+   <name>TC-13-Verify that Gaming menu is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f987c3a4-e2c9-4fe6-8533-9938ea50523a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that user able to click on a video</description>
+   <name>TC-07-Verify that video is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2786e47-7e7a-44ae-ab58-00e8ddaf050b</testCaseGuid>
+</TestCaseEntity>

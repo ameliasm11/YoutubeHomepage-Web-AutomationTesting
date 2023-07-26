@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that user redirect to the next page if click on Sign In button on Header</description>
+   <name>TC-02-Verify Sign In Button is Clickable-Header</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd7e493a-a283-4583-85fc-f63ba15bf722</testCaseGuid>
+</TestCaseEntity>

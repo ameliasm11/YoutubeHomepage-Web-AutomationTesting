@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that News button in menu bar is clickable</description>
+   <name>TC-14-Verify that News menu is clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>904a925a-161e-462a-aeba-4b3186ed0f23</testCaseGuid>
+</TestCaseEntity>

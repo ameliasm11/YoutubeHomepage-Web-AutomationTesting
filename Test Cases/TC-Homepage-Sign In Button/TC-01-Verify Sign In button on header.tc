@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that sign in button is dispalyed on header</description>
+   <name>TC-01-Verify Sign In button on header</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56737051-bfeb-41f1-89bf-86d1142ac955</testCaseGuid>
+</TestCaseEntity>
