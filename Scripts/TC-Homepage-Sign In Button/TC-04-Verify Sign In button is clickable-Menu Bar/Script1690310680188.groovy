@@ -18,6 +18,10 @@ import org.openqa.selenium.Keys as Keys
 
 CustomKeywords.'myKeywords.OpenBrowserKeyword.openMaxBrowser'()
 
+if (WebUI.verifyElementVisible(findTestObject('Page_YouTube/menuBarMinimized'), FailureHandling.OPTIONAL)) {
+	WebUI.click(findTestObject('Page_YouTube/MenuBarBurgerIcon'), FailureHandling.OPTIONAL)
+}
+
 CustomKeywords.'myKeywords.signInMenuBarKeyword.verifySignInMenuBar'()
 
 WebUI.click(findTestObject('Page_YouTube/a_SignInButtonMenuBar'))
