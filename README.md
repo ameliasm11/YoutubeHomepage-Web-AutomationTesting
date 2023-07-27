@@ -23,7 +23,7 @@ https://katalon.com/katalon-studio
 
 ### Test Cases <br>
 There are 4 folders that I have created to collect the test cases. To run the test cases you follow this steps below:<br>
-  `Open a folder > Double-click on a test case file you want to run > Click the Run button on the Toolbar`.<br>
+  `Open Test Cases > Open a folder > Double-click on a test case file you want to run > Click the Run button on the Toolbar`.<br>
 *Note: if you want see script version of the test cases, you can click on `Sript` tab.*
 
 ### Test Suite<br> 
@@ -31,7 +31,7 @@ There are test suite files that I have created to collect some of the Test Cases
 `Open Test Suites folder > Double-click on a test suite file you want to run > Click the Run button on the Toolbar`.
 ### Test Suite Collection<br>
 There is a Test Suites Collection folder that I have created to collect all the test suites and to generate reports of all the test cases. To run the Test Collection you can follow the steps below:
-`Open Test Suites folder > Double-click on the "TS-Collection-YoutubeHomepage" file > Click the Execute button`.
+`Open Test Cases Test Suites folder > Double-click on the "TS-Collection-YoutubeHomepage" file > Click the Execute button`.
 
 # 4. Reporting
 - Report for each test cases will be generated after run the Test Suites or Test Suites Collection. It will be generated in a folder inside the Reports folder. To export the reports file you can follow the steps below:<br>
